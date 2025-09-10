@@ -1,5 +1,5 @@
 Overview:-
-this is the Machine Learning Classification project to classify whether a patient is diagnosed with PCOS (Polycystic Ovary Syndrome) or not using clinical, lifestyle, and hormonal data.
+This is the Machine Learning Classification project to classify whether a patient is diagnosed with PCOS (Polycystic Ovary Syndrome) or not using clinical, lifestyle, and hormonal data.
 
 Dataset:-
 Records: 541
